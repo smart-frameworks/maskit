@@ -1,0 +1,13 @@
+
+<configuration>
+   <appender name="STDOUT"
+    class="ch.qos.logback.core.ConsoleAppender">
+      <layout class="ch.qos.logback.classic.PatternLayout">
+         <pattern>%date{yyyyMMdd HH:mm:ss.SSS} [%-5level] - [%X{JSESSIONID},%logger{35}.%X{METHOD_NAME}] - %msg%n</pattern>
+      </layout>
+   </appender>
+
+   <root level="debug">
+      <appender-ref ref="STDOUT" />
+   </root>
+</configuration>
