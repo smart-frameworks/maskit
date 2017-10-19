@@ -9,7 +9,6 @@
  */
 package com.smartframeworks.core.aspecting;
 
-import com.smartframeworks.core.logging.annotations.LogMethodPerformance;
 import org.aspectj.lang.annotation.Pointcut;
 
 /**
@@ -27,12 +26,6 @@ public abstract class LoggingAspect
       + " || (call(void org.slf4j.Logger.warn(..)))"
       + " || (call(void org.slf4j.Logger.fail(..)))))")
    public void slf4JCall()
-   {
-   }
-
-   @Pointcut("within(com..*) && execution(* com..*(..)) && @annotation(logMethodPerformance)")
-   public void logMethodPerformanceCall(
-      LogMethodPerformance logMethodPerformance)
    {
    }
 

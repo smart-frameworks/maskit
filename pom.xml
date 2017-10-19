@@ -92,7 +92,6 @@
                      <exclude>com/smartframeworks/core/aspecting/LoggingAspect.class</exclude>
                      <exclude>com/smartframeworks/core/aspecting/MaskAspect.class</exclude>
                      <exclude>com/smartframeworks/core/aspecting/MethodNameAspect.class</exclude>
-                     <exclude>com/smartframeworks/core/aspecting/PerformanceTrackingAspect.class</exclude>
                   </excludes>
                </instrumentation>
             </configuration>
@@ -105,7 +104,8 @@
       </plugins>
    </build>
    <dependencies>
-      <dependency>
+
+       <dependency>
          <groupId>ch.qos.logback</groupId>
          <artifactId>logback-classic</artifactId>
          <version>${logback.version}</version>

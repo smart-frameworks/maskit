@@ -12,7 +12,7 @@
  */
 package com.smartframeworks.core.logging;
 
-import com.smartframeworks.core.util.Mask;
+import com.smartframeworks.core.Mask;
 import java.util.Date;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

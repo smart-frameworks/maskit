@@ -10,7 +10,7 @@
  *  Created: Nov 12, 2010
  * 
  */
-package com.smartframeworks.core.util;
+package com.smartframeworks.core;
 
 import java.util.ArrayList;
 import java.util.List;

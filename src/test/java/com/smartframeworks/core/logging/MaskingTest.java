@@ -12,7 +12,7 @@
  */
 package com.smartframeworks.core.logging;
 
-import com.smartframeworks.core.util.Mask;
+import com.smartframeworks.core.Mask;
 import org.testng.annotations.Test;
 import org.testng.Assert;
 

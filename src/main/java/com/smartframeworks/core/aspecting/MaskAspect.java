@@ -11,7 +11,7 @@
  */
 package com.smartframeworks.core.aspecting;
 
-import com.smartframeworks.core.util.Mask;
+import com.smartframeworks.core.Mask;
 
 import java.lang.reflect.Array;
 
