@@ -1,15 +1,3 @@
-/*
- *
- *  Copyright (c) 2010 BarclaycardUS
- *  All rights reserved.
- *
- *  This software is the confidential and proprietary information of BarclaycardUS.
- *  ("Confidential Information").
- *
- *  File: LoggingTest.java
- *  Created: Jul 2, 2010
- *
- */
 package com.smartframeworks.core.logging;
 
 import com.smartframeworks.core.Mask;

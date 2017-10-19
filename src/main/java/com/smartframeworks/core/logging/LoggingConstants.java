@@ -1,14 +1,7 @@
-/*
- * Copyright (c) 2009 BarclaycardUS
- * All rights reserved.
- * 
- * This software is the confidential and proprietary information of BarclaycardUS.
- * ("Confidential Information").
- */
 package com.smartframeworks.core.logging;
 
 /**
- * The standard logging constants used throughout BarclayCardUS
+ * Logging constants
  *
  * @author pavan mummareddi
  */

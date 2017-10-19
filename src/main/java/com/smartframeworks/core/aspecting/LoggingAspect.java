@@ -1,12 +1,3 @@
-/*
- * 
- * Copyright (c) 2011 BarclaycardUS All rights reserved.
- * 
- * This software is the confidential and proprietary information of
- * BarclaycardUS. ("Confidential Information").
- * 
- * File: LoggingAspect.java Created: Jul 22, 2011
- */
 package com.smartframeworks.core.aspecting;
 
 import org.aspectj.lang.annotation.Pointcut;

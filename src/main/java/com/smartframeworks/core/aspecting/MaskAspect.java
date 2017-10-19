@@ -1,14 +1,3 @@
-/*
- * Copyright (c) 2010 BarclaycardUS
- * All rights reserved.
- * 
- * This software is the confidential and proprietary information of BarclaycardUS.
- * ("Confidential Information").
- * 
- *  File: MethodNameAspect.java
- *  Created: Aug 31, 2010
- * 
- */
 package com.smartframeworks.core.aspecting;
 
 import com.smartframeworks.core.Mask;

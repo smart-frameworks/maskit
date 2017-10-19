@@ -1,15 +1,3 @@
-/*
- * 
- *  Copyright (c) 2014 BarclaycardUS
- *  All rights reserved.
- * 
- *  This software is the confidential and proprietary information of BarclaycardUS.
- *  ("Confidential Information").
- * 
- *  File: MaskingTest.java
- *  Created: Feb 3, 2014
- * 
- */
 package com.smartframeworks.core.logging;
 
 import com.smartframeworks.core.Mask;
